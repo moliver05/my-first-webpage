@@ -5,7 +5,7 @@
 
 #### Isn't it nice?
 
-#### ![A photo of a kitten.] (https://cache.pakistantoday.com.pk/healthykittenmain.jpg)
+![A photo of a kitten.] (https://cache.pakistantoday.com.pk/healthykittenmain.jpg)
 
 ## Here are some things I'm going to learn about coding:
 
