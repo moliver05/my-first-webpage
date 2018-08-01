@@ -1,0 +1,24 @@
+.important {
+  font-size: 30;
+  font-weight: bold;
+  text-align: center;
+  color: blue;
+}
+
+.unimportant {
+  font-size: 30;
+  font-weight:lighter;
+  color: brown;
+}
+.special {
+  font-style: italic;
+  color: red;
+  text-align: right;
+}
+
+.center {
+  display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+}
